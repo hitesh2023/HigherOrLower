@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Higher Or Lower</string>
+    <string name="number_range_label">I\'m thinking of a number from 1 to 20.</string>
+    <string name="can_you_guess_label">Can you guess it?</string>
+    <string name="guess_button">Guess!</string>
+    <string name="guess_lower">You guessed lower!</string>
+    <string name="guess_higher">You guessed higher!</string>
+    <string name="guess_correct">Congratulations, you guessed it right! Care to play again?</string>
+    <string name="play_again">Play Again?</string>
+    <string name="enter_within_range">Please enter a number that is within the range of 1 and 20.</string>
+    <string name="enter_number">Please enter a number!</string>
+</resources>
